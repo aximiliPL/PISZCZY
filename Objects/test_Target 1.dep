@@ -1,0 +1,144 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5576C080)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_conf.h)(0x556B0EA5)
+I (stm32f4xx_gpio.h)(0x556A5909)
+I (stm32f4xx_rcc.h)(0x556A5922)
+I (stm32f4xx_spi.h)(0x556A5938)
+I (misc.h)(0x556A05BF)
+I (mic.h)(0x556B3F48)
+I (pdm_filter.h)(0x556A5AD1)
+I (dac.h)(0x5575E019)
+I (codec.h)(0x55760741)
+I (stm32f4xx_i2c.h)(0x556A05C1)
+I (queue.h)(0x5576C4C7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54765570)
+F (.\mic.c)(0x5576B346)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\mic.o --omf_browse .\objects\mic.crf --depend .\objects\mic.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_rcc.h)(0x556A5922)
+I (stm32f4xx_gpio.h)(0x556A5909)
+I (stm32f4xx_spi.h)(0x556A5938)
+I (pdm_filter.h)(0x556A5AD1)
+I (mic.h)(0x556B3F48)
+I (misc.h)(0x556A05BF)
+I (queue.h)(0x5576C4C7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54765570)
+F (.\mic.h)(0x556B3F48)()
+F (.\dac.c)(0x5576C080)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\dac.o --omf_browse .\objects\dac.crf --depend .\objects\dac.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_rcc.h)(0x556A5922)
+I (stm32f4xx_gpio.h)(0x556A5909)
+I (stm32f4xx_spi.h)(0x556A5938)
+I (stm32f4xx_i2c.h)(0x556A05C1)
+I (misc.h)(0x556A05BF)
+I (queue.h)(0x5576C4C7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54765570)
+I (codec.h)(0x55760741)
+F (.\dac.h)(0x5575E019)()
+F (.\queue.c)(0x5576C4D1)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (queue.h)(0x5576C4C7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54765570)
+F (.\queue.h)(0x5576C4C7)()
+F (.\codec.c)(0x557608D6)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\codec.o --omf_browse .\objects\codec.crf --depend .\objects\codec.d)
+I (codec.h)(0x55760741)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_gpio.h)(0x556A5909)
+I (stm32f4xx_rcc.h)(0x556A5922)
+I (stm32f4xx_i2c.h)(0x556A05C1)
+I (stm32f4xx_spi.h)(0x556A5938)
+F (.\codec.h)(0x55760741)()
+F (.\pdm_filter.h)(0x556A5AD1)()
+F (.\queue.h)(0x5576C4C7)()
+F (.\stm32f4xx_gpio.h)(0x556A5909)()
+F (.\stm32f4xx_i2c.h)(0x556A05C1)()
+F (.\stm32f4xx_rcc.h)(0x556A5922)()
+F (.\stm32f4xx_spi.h)(0x556A5938)()
+F (.\codec.h)(0x55760741)()
+F (.\dac.h)(0x5575E019)()
+F (.\mic.h)(0x556B3F48)()
+F (.\misc.h)(0x556A05BF)()
+F (.\stm32f4xx.h)(0x5575B920)()
+F (.\stm32f4xx_conf.h)(0x556B0EA5)()
+F (.\libPDMFilter_Keil.lib)(0x556A5A55)()
+F (.\stm32f4xx_gpio.c)(0x556B1409)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\stm32f4xx_gpio.o --omf_browse .\objects\stm32f4xx_gpio.crf --depend .\objects\stm32f4xx_gpio.d)
+I (stm32f4xx_gpio.h)(0x556A5909)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_rcc.h)(0x556A5922)
+F (.\stm32f4xx_i2c.c)(0x556CF92E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\stm32f4xx_i2c.o --omf_browse .\objects\stm32f4xx_i2c.crf --depend .\objects\stm32f4xx_i2c.d)
+I (stm32f4xx_i2c.h)(0x556A05C1)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_rcc.h)(0x556A5922)
+F (.\stm32f4xx_rcc.c)(0x556B14BA)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\stm32f4xx_rcc.o --omf_browse .\objects\stm32f4xx_rcc.crf --depend .\objects\stm32f4xx_rcc.d)
+I (stm32f4xx_rcc.h)(0x556A5922)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+F (.\stm32f4xx_spi.c)(0x556B1545)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\stm32f4xx_spi.o --omf_browse .\objects\stm32f4xx_spi.crf --depend .\objects\stm32f4xx_spi.d)
+I (stm32f4xx_spi.h)(0x556A5938)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+I (stm32f4xx_rcc.h)(0x556A5922)
+F (.\misc.c)(0x556B1565)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (misc.h)(0x556A05BF)
+I (stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x5575B76B)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 514" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x556B139F)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\PISZCZY-I C:\Users\Tomasz\Desktop\mikroklocki\STM32\PISZCZY\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="514" -D_RTE_ -DSTM32F407xx -DARM_MATH_CM4-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (..\PISZCZY\stm32f4xx.h)(0x5575B920)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm4.h)(0x55099E74)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54765570)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmSimd.h)(0x55099E74)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x53ABF4BA)
